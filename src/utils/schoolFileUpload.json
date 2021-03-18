@@ -1,0 +1,565 @@
+[
+    {
+        "value": "1",
+        "label": "北京外国语大学",
+        "picture": {
+            "width": 200,
+            "height": 200,
+            "size": 500,
+            "format": "jpg/png/gif"
+        },
+        
+        "ID_card": {
+            "width": 340,
+            "height": 200,
+            "size": 500,
+            "format": "jpg/png/gif"
+        },
+        "ID_card_f": {
+            "width": 340,
+            "height": 200,
+            "size": 500,
+            "format": "jpg/png/gif"
+        },
+        "diploma": {
+            "width": 200,
+            "height": 200,
+            "size": 400,
+            "format": "jpg/png/gif"
+        },
+     
+        "report": {
+            "width": 200,
+            "height": 200,
+            "size": 500,
+            "format": "jpg/png/gif"
+        },
+        "realPhone": {
+            "width": 200,
+            "height": 200,
+            "size": 500,
+            "format": "jpg/png/gif"
+        }
+        
+    },
+    {
+        "value": "2",
+        "label": "中国石油大学",
+        "picture": {
+            "width": 200,
+            "height": 200,
+            "size": 200,
+            "format": "jpg"
+        },
+        "inchPhoto":{
+            "width": 200,
+            "height": 200,
+            "size": 500,
+            "format": "jpg/png/gif"
+        },
+        "ID_card": {
+            "width": 200,
+            "height": 200,
+            "size": 200,
+            "format": "jpg/png/gif"
+        },
+        "ID_card_f": {
+            "width": 340,
+            "height": 200,
+            "size": 500,
+            "format": "jpg/png/gif"
+        },
+        "diploma": {
+            "width": 200,
+            "height": 200,
+            "size": 200,
+            "format": "jpg/png/gif"
+        },
+        "examination": {
+            "width": 200,
+            "height": 200,
+            "size": 400,
+            "format": "jpg/png/gif"
+        },
+        "report": {
+            "width": 200,
+            "height": 200,
+            "size": 500,
+            "format": "jpg/png/gif"
+        },
+        "realPhone": {
+            "width": 200,
+            "height": 200,
+            "size": 500,
+            "format": "jpg/png/gif"
+        }
+    },
+    {
+        "value": "3",
+        "label": "天津大学",
+        "picture": {
+            "width": 200,
+            "height": 200,
+            "size": 200,
+            "format": "jpg"
+        },
+        "inchPhoto":{
+            "width": 200,
+            "height": 200,
+            "size": 500,
+            "format": "jpg/png/gif"
+        },
+        "ID_card": {
+            "width": 200,
+            "height": 200,
+            "size": 200,
+            "format": "jpg"
+        },
+        "ID_card_f": {
+            "width": 340,
+            "height": 200,
+            "size": 500,
+            "format": "jpg/png/gif"
+        },
+        "diploma": {
+            "width": 200,
+            "height": 200,
+            "size": 200,
+            "format": "jpg"
+        },
+        "examination": {
+            "width": 200,
+            "height": 200,
+            "size": 400,
+            "format": "jpg/png/gif"
+        },
+        "report": {
+            "width": 200,
+            "height": 200,
+            "size": 200,
+            "format": "jpg"
+        },
+        "realPhone": {
+            "width": 200,
+            "height": 200,
+            "size": 500,
+            "format": "jpg/png/gif"
+        }
+    },
+    {
+        "value": "4",
+        "label": "西南大学",
+        "picture": {
+            "width": 200,
+            "height": 200,
+            "size": 200,
+            "format": "jpg"
+        },
+        "inchPhoto":{
+            "width": 200,
+            "height": 200,
+            "size": 500,
+            "format": "jpg/png/gif"
+        },
+        "ID_card": {
+            "width": 200,
+            "height": 200,
+            "size": 200,
+            "format": "jpg"
+        },
+        "ID_card_f": {
+            "width": 340,
+            "height": 200,
+            "size": 500,
+            "format": "jpg/png/gif"
+        },
+        "diploma": {
+            "width": 200,
+            "height": 200,
+            "size": 200,
+            "format": "jpg"
+        },
+        "examination": {
+            "width": 200,
+            "height": 200,
+            "size": 400,
+            "format": "jpg/png/gif"
+        },
+        "report": {
+            "width": 200,
+            "height": 200,
+            "size": 200,
+            "format": "jpg"
+        },
+        "realPhone": {
+            "width": 200,
+            "height": 200,
+            "size": 500,
+            "format": "jpg/png/gif"
+        }
+    },
+    {
+        "value": "5",
+        "label": "西安交通大学",
+        "picture": {
+            "width": 200,
+            "height": 200,
+            "size": 200,
+            "format": "jpg"
+        },
+        "inchPhoto":{
+            "width": 200,
+            "height": 200,
+            "size": 500,
+            "format": "jpg/png/gif"
+        },
+        "ID_card": {
+            "width": 200,
+            "height": 200,
+            "size": 200,
+            "format": "jpg/png/gif"
+        },
+        "ID_card_f": {
+            "width": 340,
+            "height": 200,
+            "size": 500,
+            "format": "jpg/png/gif"
+        },
+        "diploma": {
+            "width": 200,
+            "height": 200,
+            "size": 200,
+            "format": "jpg/png/gif"
+        },
+        "examination": {
+            "width": 200,
+            "height": 200,
+            "size": 400,
+            "format": "jpg/png/gif"
+        },
+        "report": {
+            "width": 200,
+            "height": 200,
+            "size": 200,
+            "format": "jpg/png/gif"
+        },
+        "realPhone": {
+            "width": 200,
+            "height": 200,
+            "size": 500,
+            "format": "jpg/png/gif"
+        }
+    },
+    {
+        "value": "6",
+        "label": "西北工业大学",
+        "picture": {
+            "width": 200,
+            "height": 200,
+            "size": 200,
+            "format": "jpg"
+        },
+        "inchPhoto":{
+            "width": 200,
+            "height": 200,
+            "size": 500,
+            "format": "jpg/png/gif"
+        },
+        "ID_card": {
+            "width": 200,
+            "height": 200,
+            "size": 200,
+            "format": "jpg/png/gif"
+        },
+        "ID_card_f": {
+            "width": 340,
+            "height": 200,
+            "size": 500,
+            "format": "jpg/png/gif"
+        },
+        "diploma": {
+            "width": 200,
+            "height": 200,
+            "size": 200,
+            "format": "jpg/png/gif"
+        },
+        "examination": {
+            "width": 200,
+            "height": 200,
+            "size": 400,
+            "format": "jpg/png/gif"
+        },
+        "report": {
+            "width": 200,
+            "height": 200,
+            "size": 200,
+            "format": "jpg/png/gif"
+        },
+        "realPhone": {
+            "width": 200,
+            "height": 200,
+            "size": 500,
+            "format": "jpg/png/gif"
+        }
+    },
+    {
+        "value": "7",
+        "label": "四川农业大学",
+        "picture": {
+            "width": 200,
+            "height": 200,
+            "size": 200,
+            "format": "jpg/png"
+        },
+        "inchPhoto":{
+            "width": 200,
+            "height": 200,
+            "size": 500,
+            "format": "jpg/png/gif"
+        },
+        "ID_card": {
+            "width": 200,
+            "height": 200,
+            "size": 200,
+            "format": "jpg/png/gif"
+        },
+        "ID_card_f": {
+            "width": 340,
+            "height": 200,
+            "size": 500,
+            "format": "jpg/png/gif"
+        },
+        "diploma": {
+            "width": 200,
+            "height": 200,
+            "size": 200,
+            "format": "jpg/png/gif"
+        },
+        "examination": {
+            "width": 200,
+            "height": 200,
+            "size": 400,
+            "format": "jpg/png/gif"
+        },
+        "report": {
+            "width": 200,
+            "height": 200,
+            "size": 200,
+            "format": "jpg/png/gif"
+        },
+        "realPhone": {
+            "width": 200,
+            "height": 200,
+            "size": 500,
+            "format": "jpg/png/gif"
+        }
+    },
+    {
+        "value": "8",
+        "label": "南开大学",
+        "picture": {
+            "width": 200,
+            "height": 200,
+            "size": 200,
+            "format": "jpg"
+        },
+        "inchPhoto":{
+            "width": 200,
+            "height": 200,
+            "size": 500,
+            "format": "jpg/png/gif"
+        },
+        "ID_card": {
+            "width": 200,
+            "height": 200,
+            "size": 200,
+            "format": "jpg/png/gif"
+        },
+        "ID_card_f": {
+            "width": 340,
+            "height": 200,
+            "size": 500,
+            "format": "jpg/png/gif"
+        },
+        "diploma": {
+            "width": 200,
+            "height": 200,
+            "size": 200,
+            "format": "jpg/png/gif"
+        },
+        "examination": {
+            "width": 200,
+            "height": 200,
+            "size": 400,
+            "format": "jpg/png/gif"
+        },
+        "report": {
+            "width": 200,
+            "height": 200,
+            "size": 200,
+            "format": "jpg/png/gif"
+        },
+        "realPhone": {
+            "width": 200,
+            "height": 200,
+            "size": 500,
+            "format": "jpg/png/gif"
+        }
+    },
+    {
+        "value": "9",
+        "label": "山东大学",
+        "picture": {
+            "width": 200,
+            "height": 200,
+            "size": 200,
+            "format": "jpg"
+        },
+        "inchPhoto":{
+            "width": 200,
+            "height": 200,
+            "size": 500,
+            "format": "jpg/png/gif"
+        },
+        "ID_card": {
+            "width": 200,
+            "height": 200,
+            "size": 200,
+            "format": "jpg/png/gif"
+        },
+        "ID_card_f": {
+            "width": 340,
+            "height": 200,
+            "size": 500,
+            "format": "jpg/png/gif"
+        },
+        "diploma": {
+            "width": 200,
+            "height": 200,
+            "size": 200,
+            "format": "jpg/png/gif"
+        },
+        "examination": {
+            "width": 200,
+            "height": 200,
+            "size": 400,
+            "format": "jpg/png/gif"
+        },
+        "report": {
+            "width": 200,
+            "height": 200,
+            "size": 200,
+            "format": "jpg/png/gif"
+        },
+        "realPhone": {
+            "width": 200,
+            "height": 200,
+            "size": 500,
+            "format": "jpg/png/gif"
+        }
+    },
+    {
+        "value": "10",
+        "label": "中国传媒大学",
+        "picture": {
+            "width": 200,
+            "height": 200,
+            "size": 200,
+            "format": "jpg"
+        },
+        "inchPhoto":{
+            "width": 200,
+            "height": 200,
+            "size": 500,
+            "format": "jpg/png/gif"
+        },
+        "ID_card": {
+            "width": 200,
+            "height": 200,
+            "size": 200,
+            "format": "jpg/png/gif"
+        },
+        "ID_card_f": {
+            "width": 340,
+            "height": 200,
+            "size": 500,
+            "format": "jpg/png/gif"
+        },
+        "diploma": {
+            "width": 200,
+            "height": 200,
+            "size": 200,
+            "format": "jpg/png/gif"
+        },
+        "examination": {
+            "width": 200,
+            "height": 200,
+            "size": 400,
+            "format": "jpg/png/gif"
+        },
+        "report": {
+            "width": 200,
+            "height": 200,
+            "size": 200,
+            "format": "jpg/png/gif"
+        },
+        "realPhone": {
+            "width": 200,
+            "height": 200,
+            "size": 500,
+            "format": "jpg/png/gif"
+        }
+    },
+    {
+        "value": "11",
+        "label": "奥鹏平台",
+        "picture": {
+            "width": 200,
+            "height": 200,
+            "size": 200,
+            "format": "jpg"
+        },
+        "inchPhoto":{
+            "width": 200,
+            "height": 200,
+            "size": 500,
+            "format": "jpg/png/gif"
+        },
+        "ID_card": {
+            "width": 200,
+            "height": 200,
+            "size": 200,
+            "format": "jpg/png/gif"
+        },
+        "ID_card_f": {
+            "width": 340,
+            "height": 200,
+            "size": 500,
+            "format": "jpg/png/gif"
+        },
+        "diploma": {
+            "width": 200,
+            "height": 200,
+            "size": 200,
+            "format": "jpg/png/gif"
+        },
+        "examination": {
+            "width": 200,
+            "height": 200,
+            "size": 400,
+            "format": "jpg/png/gif"
+        },
+        "report": {
+            "width": 200,
+            "height": 200,
+            "size": 200,
+            "format": "jpg/png/gif"
+        },
+        "realPhone": {
+            "width": 200,
+            "height": 200,
+            "size": 500,
+            "format": "jpg/png/gif"
+        }
+    }
+]

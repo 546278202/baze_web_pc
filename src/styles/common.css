@@ -1,0 +1,96 @@
+html {
+    height: 100%;
+    box-sizing: border-box;
+    /* font-family: Helvetica Neue, Helvetica, PingFang SC, Hiragino Sans GB, Microsoft YaHei, Arial, sans-serif; */
+    font-family: Source Han Sans CN;
+
+}
+body {
+    height: 100%;
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+}
+*{
+    padding:0;
+    margin:0;
+}
+a{
+    text-decoration:none;
+    cursor: pointer;
+    /* color:#FFF; */
+
+}
+/* a:link {color: #FF0000}		未访问的链接 */
+/* a:visited {color: #00FF00}	已访问的链接 */
+/* a:hover {color: #23D3B5}	    鼠标移动到链接上 */
+/* a:active {color: #0000FF}	选定的链接 */
+ul li {
+  list-style:none;
+}
+ol li {
+list-style:none;
+}
+/* 主题色 */
+.theme-color{
+    color:#23D3B5
+}
+
+img{
+    /* width:100%;
+    height:100%; */
+    transition: all 0.3s ;
+}
+
+
+/* 图片hover */
+.imghover{
+    transform-origin: center center;
+    transform: scale(1.1, 1.1);
+    -webkit-transform-origin: center center;
+    -webkit-transform: scale(1.1, 1.1);
+    -moz-transform-origin: center center;
+    -moz-transform: scale(1.1, 1.1);
+    -o-transform-origin: center center;
+    -o-transform: scale(1.1, 1.1);
+    -ms-transform-origin: center center;
+    -ms-transform: scale(1.1, 1.1);
+}
+.imghoverout{
+    transform-origin: center center;
+    transform: scale(1.0, 1.0);
+    -webkit-transform-origin: center center;
+    -webkit-transform: scale(1.0, 1.0);
+    -moz-transform-origin: center center;
+    -moz-transform: scale(1.0, 1.0);
+    -o-transform-origin: center center;
+    -o-transform: scale(1.0, 1.0);
+    -ms-transform-origin: center center;
+    -ms-transform: scale(1.0, 1.0);
+}
+
+
+/* //tabs导航 */
+/* .el-tabs{
+    background:#fff;
+    margin-top: 20px;
+}
+.el-tabs /deep/ .el-tabs__item{
+    font-size:18px;
+    height:70px;
+    line-height: 70px;;
+}
+.el-tabs  /deep/ .el-tabs__nav {
+    margin-left:60px;
+}
+.el-tabs   /deep/ .el-tab-pane{
+    padding:0 60px;
+} */
+
+
+.html-introduce{
+    line-height: 24px;
+}
+.html-introduce img{
+    width: 100% !important;
+}
